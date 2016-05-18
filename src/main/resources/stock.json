@@ -1,0 +1,12 @@
+[
+  {"6001":[{"stockCode":"6001"},{"stockName":"中国银行"},{"openPrice":"25.6"},{"nowPrice":"27.2"},{"change":"2.1"}]},
+  {"6002":[{"stockCode":"6002"},{"stockName":"北京银行"},{"openPrice":"32.2"},{"nowPrice":"33.4"},{"change":"1.5%"}]},
+  {"6003":[{"stockCode":"6003"},{"stockName":"农业银行"},{"openPrice":"35.2"},{"nowPrice":"29.2"},{"change":"-3.1%"}]},
+  {"6004":[{"stockCode":"6004"},{"stockName":"兴业银行"},{"openPrice":"42.3"},{"nowPrice":"38.6"},{"change":"3.1%"}]},
+  {"6005":[{"stockCode":"6005"},{"stockName":"长城信息"},{"openPrice":"28.3"},{"nowPrice":"28.3"},{"change":"0%"}]},
+  {"6006":[{"stockCode":"6006"},{"stockName":"航天科技"},{"openPrice":"24.2"},{"nowPrice":"26.1"},{"change":"1.5%"}]},
+  {"6007":[{"stockCode":"6007"},{"stockName":"中航机电"},{"openPrice":"34.2"},{"nowPrice":"33.5"},{"change":"-1.0%"}]},
+  {"6008":[{"stockCode":"6008"},{"stockName":"航天科技"},{"openPrice":"36.4"},{"nowPrice":"37.6"},{"change":"1.2%"}]},
+  {"6009":[{"stockCode":"6009"},{"stockName":"华天创通"},{"openPrice":"36.5"},{"nowPrice":"34.2"},{"change":"-1.8%"}]},
+  {"6010":[{"stockCode":"6010"},{"stockName":"中原特钢"},{"openPrice":"22.1"},{"nowPrice":"28.2"},{"change":"3.6%"}]}
+]
